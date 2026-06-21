@@ -1,4 +1,4 @@
-# Tu calor me desarma
+# Tu calor me desarma, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Tu calor me desarma |
+| **Title** | Tu calor me desarma, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-calor-me-desarma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu calor me desarma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-me-desarma/) |
+| **Get License** | [Commercial Licensing for Tu calor me desarma, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-me-desarma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu calor me desarma y me quita la calma
+> Cuando me miras fijo tú me robas el alma
+> Vámonos muy lejos que la noche nos llama
+> Quiero perderme contigo hasta la mañana
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `9bfc3a88e9340d6a8727bc177190142d356304b336405bc3c8f34900fa552627` |
+| **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

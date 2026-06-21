@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu calor me desarma, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Tu calor me desarma, Vol. 2** (tu-calor-me-desarma-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T03:57:00.419680 | `v1` | `9bfc3a88e9340d6a8727bc177190142d356304b336405bc3c8f34900fa552627` | `c10754c43c87c1c497a25e42d826f155bfa048fae02b6b1810f8e1e5665fc1ad` | `2026-06-22_tu-calor-me-desarma-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
